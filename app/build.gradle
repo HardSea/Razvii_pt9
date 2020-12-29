@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId "com.pmacademy.razvii_pt9"
-        minSdkVersion 16
+        minSdkVersion 25
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
